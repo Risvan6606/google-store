@@ -1,0 +1,202 @@
+
+.profile{
+    width: 32px;
+    border-radius: 50%;
+}
+.googlelogo{
+margin-left: 40px;
+}
+
+.googlelogo:hover{
+    cursor: pointer;
+
+}
+
+
+
+
+.fHead{
+    display: flex;
+    flex-direction: row;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    position: fixed;
+    background-color: #fff ;
+}
+
+.fHead,:hover{
+    box-shadow: #3c4043;
+}
+
+.rightH{
+    margin-left: 1143px;
+    display: flex;
+    
+}
+.serch,.qus,.shop,.profile{
+    margin-left: 24px;
+   
+}
+.serch,.qus,.shop,.profile:hover{
+    cursor: pointer;
+  
+   
+}
+
+
+.wel{
+    margin-left: 500px;
+    font-size: 50px;
+    color:#3c4043;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.GS{
+    margin-left: 550px;
+    font-size:50px ;
+    color: #188038;
+}
+.welcome{
+    height: 273px;
+}
+/*product section*/
+.main{
+    display: flex;
+    justify-content:space-evenly;
+    
+}
+.product{
+   padding-right: 154px;
+
+}
+.pt,h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #3c4043;
+    font-weight: 100;
+}
+
+.pt:hover{
+cursor: pointer;
+
+}
+
+.pixelA {
+    width: 300px;
+}
+
+.pixelA:hover{
+    cursor: pointer;
+    width: 310px;
+}
+
+.pixelB{
+    width: 250px;
+}
+.pixelB:hover{
+    cursor: pointer;
+    width: 260px;
+}
+
+.pixel1{
+overflow: none;
+}
+.pixel2{
+
+}
+.pixel3{
+
+}
+.product{
+   
+}
+.main2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+.main3{
+    display: flex;
+    justify-content:space-evenly ;
+}
+
+.white{
+    width: 300px;
+}
+.main4{
+    display: flex;
+    margin-left:54px;
+}
+
+.double{
+    width: 300px;
+    margin-left: 45px;
+}
+.double:hover{
+    width: 310px;
+}
+.same{
+    padding-left: 50px;
+    padding-top: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #838689;
+}
+.same:hover{
+    color: #2f4fc3;
+}
+.bottom{
+    height: 331px;
+    
+}
+table{
+    margin-left: 980px;
+    padding-top: 94px;
+}
+.l{
+    margin-left: 11px;
+    width: 20px;
+}
+.l:hover{
+    cursor: pointer;
+}
+
+.finsh{
+    display: flex;
+    
+}
+
+
+.finallogo{
+    padding-left: 80px;
+    padding-top: 5px;
+}
+.finishright{
+    padding-left:545px;
+    display: flex;  
+}
+.india{
+    margin-left: 20px;
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+}
+.india:hover{
+    cursor: pointer;
+}
+p{
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: #838689;
+}
+p:hover{
+    cursor: pointer;
+}
+
+
+
+
+
+
+
